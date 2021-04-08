@@ -27,7 +27,7 @@ dist/
 .idea/
 
 # Secret Key
-.pem
+*.pem
 
 # Unit test reports
 TEST*.xml
