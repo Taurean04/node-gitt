@@ -26,6 +26,9 @@ dist/
 # JetBrains IDE
 .idea/
 
+# Secret Key
+.pem
+
 # Unit test reports
 TEST*.xml
 
